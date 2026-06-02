@@ -1,0 +1,24 @@
+# Replace your current Step 1 dataset with this expanded one:
+data = {
+    "text": [
+        "The company reported a 20% increase in net profit this quarter.",
+        "Market shares plummeted following the unexpected resignation of the CEO.",
+        "The stock price remained steady with no major fluctuations recorded.",
+        "Excellent revenue growth and great future prospects for investors.",
+        "Terrible performance, closing down several retail branches due to loss.",
+        "Quarterly earnings met expectations with stable growth metrics.",
+        "The regulatory body is launching a massive fraud investigation into the firm.",
+        "Analysts upgraded the stock rating to a strong buy today.",
+        "Net income dropped significantly compared to the previous fiscal year.",
+        "The board announced a strategic partnership that will boost market value.",
+        "Operating costs remained unchanged during the last quarter.",
+        "The company faces a massive lawsuit that could lead to bankruptcy.",
+        "Revenue increased by millions in a record-breaking sales streak.",
+        "The factory closure resulted in hundreds of immediate job cuts."
+    ],
+    "label": [
+        "positive", "negative", "neutral", "positive", "negative", 
+        "neutral", "negative", "positive", "negative", "positive", 
+        "neutral", "negative", "positive", "negative"
+    ]
+}
